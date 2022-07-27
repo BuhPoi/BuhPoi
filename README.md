@@ -1,6 +1,5 @@
 - 👋 Hi, I’m BuhPoi
 - 🎨 I'm a pixel artist and game developer
-- 🐧 Currently working on a 2D platformer about a penguin called Polar
 - 📧 Contact me at @BuhPoi#9334 on Discord
 
 <!---
